@@ -1,0 +1,63 @@
+
+section p{
+    font-size: 9px;
+    padding-left: 90px;
+}
+section h2, h3{
+    font-size: 16px;
+    padding-left: 70px;
+}
+section{
+    padding: 30px;
+}
+section img{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    font-family: 'Helvetica', 'Times new roman', 'Lucida Sans';
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    height: 4em;
+    padding-bottom: 3em;
+    margin: auto;
+    background-image: url("/assets/imgs/header_2.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+    text-align: left;
+}
+header h1{
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    font-weight: 500;
+    text-shadow: -1px 2px 0 black;
+}
+header p{
+    color: black;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(255, 204, 102);
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    margin: auto;
+}
+
